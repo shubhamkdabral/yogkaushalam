@@ -14,6 +14,6 @@ jobs:
     - name: Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
-        server: bdstudios@bdstudios.in
-        username: yogkaushalam@bdstudios.in
+        server: yogkaushalam.com
+        username: admin@yogkaushalam.com
         password: Radhey@123
