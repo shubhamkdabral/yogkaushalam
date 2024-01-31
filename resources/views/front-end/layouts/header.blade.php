@@ -37,11 +37,11 @@
                         <div class="text">
                             <i class="far fa-clock"></i>
                             <h2>8:00 - 9:00</h2>
-                            <p>Mon - Fri</p>
+                            <p>Mon - Sat</p>
                         </div>
                         <div class="text">
                             <i class="fa fa-phone-alt"></i>
-                            <h2>+123 456 7890</h2>
+                            <h2>+91-7819891130</h2>
                             <p>For Appointment</p>
                         </div>
                     </div>
@@ -49,10 +49,10 @@
                 <div class="col-md-4">
                     <div class="top-bar-right">
                         <div class="social">
-                            <a href=""><i class="fab fa-twitter"></i></a>
-                            <a href=""><i class="fab fa-facebook-f"></i></a>
-                            <a href=""><i class="fab fa-linkedin-in"></i></a>
-                            <a href=""><i class="fab fa-instagram"></i></a>
+                            <a href="https://www.facebook.com/Yogkoshlm/"><i class="fab fa-facebook-f"></i></a>
+                            <a href=""><i class="fab fa-youtube"></i></a>
+                            <a href="https://www.instagram.com/yogkaushalam_dehradun_official/"><i
+                                    class="fab fa-instagram"></i></a>
                         </div>
                     </div>
                 </div>
@@ -100,27 +100,26 @@
             <div class="container">
                 <div class="footer-info">
                     <a href="index.html" class="footer-logo">Y<span>og</span>K<span>aushalam</span></a>
-                    <h3>73G5+W4W, Badripur Rd, near post office, Badripur, Dehradun,
+                    <h3>73G5, Badripur Rd, near post office, Badripur, Dehradun,
                         Uttarakhand 248012</h3>
                     <div class="footer-menu">
-                        <p>+91- 78198 91130</p>
+                        <p>+91-7819891130</p>
                         <p>yogkaushalam2022@gmail.com</p>
                     </div>
                     <div class="footer-social">
                         <a href="https://www.facebook.com/Yogkoshlm/"><i class="fab fa-facebook-f"></i></a>
                         <a href=""><i class="fab fa-youtube"></i></a>
-                        <a href="https://www.instagram.com/yogkaushalam_dehradun_official/"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.instagram.com/yogkaushalam_dehradun_official/"><i
+                                class="fab fa-instagram"></i></a>
                     </div>
                 </div>
             </div>
             <div class="container copyright">
                 <div class="row">
                     <div class="col-md-6">
-                        <p>&copy; <a href="#">Your Site Name</a>, All Right Reserved.</p>
+                        <p>&copy; <a href="#">Anss Tech</a>, All Right Reserved.</p>
                     </div>
                     <div class="col-md-6">
-                        <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-                        <p>Designed By <a href="https://htmlcodex.com">HTML Codex</a></p>
                     </div>
                 </div>
             </div>
