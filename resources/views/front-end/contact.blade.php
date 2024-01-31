@@ -34,21 +34,22 @@
                             <i class="fa fa-map-marker-alt"></i>
                             <div class="contact-text">
                                 <h2>Location</h2>
-                                <p>123 Street, New York, USA</p>
+                                <p>73G5+W4W, Badripur Rd, near post office, Badripur, Dehradun,
+                                    Uttarakhand 248012</p>
                             </div>
                         </div>
                         <div class="col-md-4 contact-item wow zoomIn" data-wow-delay="0.4s">
                             <i class="fa fa-phone-alt"></i>
                             <div class="contact-text">
                                 <h2>Phone</h2>
-                                <p>+012 345 67890</p>
+                                <p>+91- 78198 91130</p>
                             </div>
                         </div>
                         <div class="col-md-4 contact-item wow zoomIn" data-wow-delay="0.6s">
                             <i class="far fa-envelope"></i>
                             <div class="contact-text">
                                 <h2>Email</h2>
-                                <p>info@example.com</p>
+                                <p>yogkaushalam2022@gmail.com</p>
                             </div>
                         </div>
                     </div>

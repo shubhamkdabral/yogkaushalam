@@ -100,17 +100,16 @@
             <div class="container">
                 <div class="footer-info">
                     <a href="index.html" class="footer-logo">Y<span>og</span>K<span>aushalam</span></a>
-                    <h3>123 Street, New York, USA</h3>
+                    <h3>73G5+W4W, Badripur Rd, near post office, Badripur, Dehradun,
+                        Uttarakhand 248012</h3>
                     <div class="footer-menu">
-                        <p>+012 345 67890</p>
-                        <p>info@example.com</p>
+                        <p>+91- 78198 91130</p>
+                        <p>yogkaushalam2022@gmail.com</p>
                     </div>
                     <div class="footer-social">
-                        <a href=""><i class="fab fa-twitter"></i></a>
-                        <a href=""><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.facebook.com/Yogkoshlm/"><i class="fab fa-facebook-f"></i></a>
                         <a href=""><i class="fab fa-youtube"></i></a>
-                        <a href=""><i class="fab fa-instagram"></i></a>
-                        <a href=""><i class="fab fa-linkedin-in"></i></a>
+                        <a href="https://www.instagram.com/yogkaushalam_dehradun_official/"><i class="fab fa-instagram"></i></a>
                     </div>
                 </div>
             </div>
