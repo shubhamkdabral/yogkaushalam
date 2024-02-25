@@ -225,16 +225,14 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.0s">
                     <div class="team-item">
                         <div class="team-img">
-                            <img src="{{ asset('storage/front-end/team-1.jpg') }}" alt="Image">
+                            <img src="{{ asset('storage/front-end/arti.jpeg') }}" alt="Image">
                             <div class="team-social">
-                                <a href=""><i class="fab fa-twitter"></i></a>
-                                <a href=""><i class="fab fa-facebook-f"></i></a>
-                                <a href=""><i class="fab fa-linkedin-in"></i></a>
-                                <a href=""><i class="fab fa-instagram"></i></a>
+                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://www.instagram.com/artiishankar07"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                         <div class="team-text">
-                            <h2>Millie Harper</h2>
+                            <h2>Arti Shankar</h2>
                             <p>Yoga Teacher</p>
                         </div>
                     </div>
@@ -242,16 +240,14 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="team-item">
                         <div class="team-img">
-                            <img src="{{ asset('storage/front-end/team-2.jpg') }}" alt="Image">
+                            <img src="{{ asset('storage/front-end/khushal.jpeg') }}" alt="Image">
                             <div class="team-social">
-                                <a href=""><i class="fab fa-twitter"></i></a>
                                 <a href=""><i class="fab fa-facebook-f"></i></a>
-                                <a href=""><i class="fab fa-linkedin-in"></i></a>
-                                <a href=""><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.instagram.com/yogacharya_kushal"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                         <div class="team-text">
-                            <h2>Lilly Fry</h2>
+                            <h2>Khushal Singh</h2>
                             <p>Yoga Teacher</p>
                         </div>
                     </div>
@@ -259,33 +255,15 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
                     <div class="team-item">
                         <div class="team-img">
-                            <img src="{{ asset('storage/front-end/team-3.jpg') }}" alt="Image">
+                            <img src="{{ asset('storage/front-end/shubham_joshi.jpeg') }}" alt="Image">
                             <div class="team-social">
-                                <a href=""><i class="fab fa-twitter"></i></a>
-                                <a href=""><i class="fab fa-facebook-f"></i></a>
-                                <a href=""><i class="fab fa-linkedin-in"></i></a>
-                                <a href=""><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.facebook.com/shubam.joshi.3344?mibextid=kFxxJD"><i
+                                        class="fab fa-facebook-f"></i></a>
+                                <a href="https://www.instagram.com/_shubham_joshi0"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                         <div class="team-text">
-                            <h2>Elise Moran</h2>
-                            <p>Yoga Teacher</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
-                    <div class="team-item">
-                        <div class="team-img">
-                            <img src="{{ asset('storage/front-end/team-4.jpg') }}" alt="Image">
-                            <div class="team-social">
-                                <a href=""><i class="fab fa-twitter"></i></a>
-                                <a href=""><i class="fab fa-facebook-f"></i></a>
-                                <a href=""><i class="fab fa-linkedin-in"></i></a>
-                                <a href=""><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                        <div class="team-text">
-                            <h2>Kate Glover</h2>
+                            <h2>Shubham Joshi</h2>
                             <p>Yoga Teacher</p>
                         </div>
                     </div>
@@ -297,7 +275,7 @@
 
 
     <!-- Blog Start -->
-    <div class="blog">
+    {{-- <div class="blog">
         <div class="container">
             <div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
                 <p>From Blog</p>
@@ -414,7 +392,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- Blog End -->
 
 
