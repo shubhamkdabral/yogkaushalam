@@ -80,7 +80,8 @@
                         </div>
                         <h3>Heal emotions</h3>
                         <p>
-                            Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
+                            Yoga heals emotions through mindful practices, fostering self-awareness, and cultivating
+                            balance, resilience, and inner peace for practitioners.
                         </p>
                     </div>
                 </div>
@@ -89,9 +90,10 @@
                         <div class="service-icon">
                             <i class="flaticon-workout-1"></i>
                         </div>
-                        <h3>Body Refreshes</h3>
+                        <h3>Mindfulness and Awareness</h3>
                         <p>
-                            Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
+                            Yoga fosters emotional healing through mindfulness and awareness, promoting balance, resilience,
+                            and inner peace for practitioners' well-being
                         </p>
                     </div>
                 </div>
@@ -100,9 +102,10 @@
                         <div class="service-icon">
                             <i class="flaticon-workout-2"></i>
                         </div>
-                        <h3>Mind & Serenity</h3>
+                        <h3>Breath Awareness</h3>
                         <p>
-                            Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
+                            Yoga utilizes breath awareness for emotional healing, fostering balance, resilience, and inner
+                            peace in practitioners' journey to well-being.
                         </p>
                     </div>
                 </div>
@@ -111,9 +114,10 @@
                         <div class="service-icon">
                             <i class="flaticon-workout-3"></i>
                         </div>
-                        <h3>Enjoy Your life</h3>
+                        <h3>Body Refreshes</h3>
                         <p>
-                            Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
+                            Yoga makes your body feel fresh and renewed, helping you feel balanced, strong, and peaceful
+                            inside and out.
                         </p>
                     </div>
                 </div>
@@ -124,7 +128,8 @@
                         </div>
                         <h3>Body & Spirituality</h3>
                         <p>
-                            Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
+                            Yoga connects body and spirit, fostering inner growth, peace, and alignment for a harmonious and
+                            fulfilling life journey.
                         </p>
                     </div>
                 </div>
@@ -135,7 +140,7 @@
                         </div>
                         <h3>Body & Mind</h3>
                         <p>
-                            Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
+                            Yoga unites body and mind, promoting harmony, clarity, and well-being through mindful movement, breath, and meditation practices.
                         </p>
                     </div>
                 </div>
