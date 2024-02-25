@@ -9,10 +9,10 @@
             <div class="row align-items-center">
                 <div class="col-sm-12 col-md-6">
                     <div class="hero-text">
-                        <h1>Yoga Practice For Good Health</h1>
+                        <h1>Nourish Your Body, Elevate Your Spirit</h1>
                         <p>
-                            Lorem ipsum dolor sit amet elit. Phasell nec pretum mi. Curabi ornare velit non. Aliqua metus
-                            tortor auctor quis sem.
+                            Yoga nourishes the body with movement and breath while uplifting the spirit, promoting holistic
+                            well-being and inner growth
                         </p>
                         <div class="hero-btn">
                             <a class="btn" href="">Join Now</a>
@@ -42,19 +42,17 @@
                 </div>
                 <div class="col-lg-7 col-md-6">
                     <div class="section-header text-left">
-                        <p>Learn About Us</p>
-                        <h2>Welcome to Yooga</h2>
+                        <p>About Us</p>
+                        <h2>Welcome to YogKaushlam</h2>
                     </div>
                     <div class="about-text">
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur
-                            facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum,
-                            viverra quis sem.
-                        </p>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur
-                            facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum,
-                            viverra quis sem. Curabitur non nisl nec nisi scelerisque maximus.
+                            Nowadays, yoga has become just a physical exercise, but in reality, yoga is a way for human
+                            being to establish the mutual relationship between physical, mental and spiritual emotions,
+                            which connects man with his reality. In this busy life, no person has time to know his real
+                            purpose, due to which it is common to get lost in the path. Due to which worries and spontaneous
+                            discussions keep going on in the mind, but through yoga, human being can get rid of all these
+                            problems.
                         </p>
                         <a class="btn" href="">Learn More</a>
                     </div>
@@ -140,7 +138,8 @@
                         </div>
                         <h3>Body & Mind</h3>
                         <p>
-                            Yoga unites body and mind, promoting harmony, clarity, and well-being through mindful movement, breath, and meditation practices.
+                            Yoga unites body and mind, promoting harmony, clarity, and well-being through mindful movement,
+                            breath, and meditation practices.
                         </p>
                     </div>
                 </div>
@@ -149,265 +148,8 @@
     </div>
     <!-- Service End -->
 
-
-    <!-- Class Start -->
-    <div class="class">
-        <div class="container">
-            <div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
-                <p>Our Classes</p>
-                <h2>Yoga Class Shedule</h2>
-            </div>
-            <div class="row">
-                <div class="col-12">
-                    <ul id="class-filter">
-                        <li data-filter="*" class="filter-active">All Classes</li>
-                        <li data-filter=".filter-1">Pilates Yoga</li>
-                        <li data-filter=".filter-2">Hatha Yoga</li>
-                        <li data-filter=".filter-3">Vinyasa yoga</li>
-                    </ul>
-                </div>
-            </div>
-            <div class="row class-container">
-                <div class="col-lg-4 col-md-6 col-sm-12 class-item filter-1 wow fadeInUp" data-wow-delay="0.0s">
-                    <div class="class-wrap">
-                        <div class="class-img">
-                            <img src="{{ asset('storage/front-end/class-1.jpg') }}" alt="Image">
-                        </div>
-                        <div class="class-text">
-                            <div class="class-teacher">
-                                <img src="{{ asset('storage/front-end/teacher-1.png') }}" alt="Image">
-                                <h3>Elise Moran</h3>
-                                <a href="">+</a>
-                            </div>
-                            <h2>Pilates Yoga</h2>
-                            <div class="class-meta">
-                                <p><i class="far fa-calendar-alt"></i>Sun, Tue, Thu</p>
-                                <p><i class="far fa-clock"></i>9:00 - 10:00</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 class-item filter-2 wow fadeInUp" data-wow-delay="0.2s">
-                    <div class="class-wrap">
-                        <div class="class-img">
-                            <img src="{{ asset('storage/front-end/class-2.jpg') }}" alt="Image">
-                        </div>
-                        <div class="class-text">
-                            <div class="class-teacher">
-                                <img src="{{ asset('storage/front-end/teacher-2.png') }}" alt="Image">
-                                <h3>Kate Glover</h3>
-                                <a href="">+</a>
-                            </div>
-                            <h2>Iyengar Yoga</h2>
-                            <div class="class-meta">
-                                <p><i class="far fa-calendar-alt"></i>Sun, Tue, Thu</p>
-                                <p><i class="far fa-clock"></i>9:00 - 10:00</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 class-item filter-3 wow fadeInUp" data-wow-delay="0.4s">
-                    <div class="class-wrap">
-                        <div class="class-img">
-                            <img src="{{ asset('storage/front-end/class-3.jpg') }}" alt="Image">
-                        </div>
-                        <div class="class-text">
-                            <div class="class-teacher">
-                                <img src="{{ asset('storage/front-end/teacher-3.png') }}" alt="Image">
-                                <h3>Elina Ekman</h3>
-                                <a href="">+</a>
-                            </div>
-                            <h2>Ashtanga yoga</h2>
-                            <div class="class-meta">
-                                <p><i class="far fa-calendar-alt"></i>Sun, Tue, Thu</p>
-                                <p><i class="far fa-clock"></i>9:00 - 10:00</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 class-item filter-1 wow fadeInUp" data-wow-delay="0.6s">
-                    <div class="class-wrap">
-                        <div class="class-img">
-                            <img src="{{ asset('storage/front-end/class-4.jpg') }}" alt="Image">
-                        </div>
-                        <div class="class-text">
-                            <div class="class-teacher">
-                                <img src="{{ asset('storage/front-end/teacher-4.png') }}" alt="Image">
-                                <h3>Lilly Fry</h3>
-                                <a href="">+</a>
-                            </div>
-                            <h2>Hatha Yoga</h2>
-                            <div class="class-meta">
-                                <p><i class="far fa-calendar-alt"></i>Sun, Tue, Thu</p>
-                                <p><i class="far fa-clock"></i>9:00 - 10:00</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 class-item filter-2 wow fadeInUp" data-wow-delay="0.8s">
-                    <div class="class-wrap">
-                        <div class="class-img">
-                            <img src="{{ asset('storage/front-end/class-5.jpg') }}" alt="Image">
-                        </div>
-                        <div class="class-text">
-                            <div class="class-teacher">
-                                <img src="{{ asset('storage/front-end/teacher-5.png') }}" alt="Image">
-                                <h3>Olivia Yates</h3>
-                                <a href="">+</a>
-                            </div>
-                            <h2>Kundalini Yoga</h2>
-                            <div class="class-meta">
-                                <p><i class="far fa-calendar-alt"></i>Sun, Tue, Thu</p>
-                                <p><i class="far fa-clock"></i>9:00 - 10:00</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 class-item filter-3 wow fadeInUp" data-wow-delay="1s">
-                    <div class="class-wrap">
-                        <div class="class-img">
-                            <img src="{{ asset('storage/front-end/class-6.jpg') }}" alt="Image">
-                        </div>
-                        <div class="class-text">
-                            <div class="class-teacher">
-                                <img src="{{ asset('storage/front-end/teacher-6.png') }}" alt="Image">
-                                <h3>Millie Harper</h3>
-                                <a href="">+</a>
-                            </div>
-                            <h2>Vinyasa yoga</h2>
-                            <div class="class-meta">
-                                <p><i class="far fa-calendar-alt"></i>Sun, Tue, Thu</p>
-                                <p><i class="far fa-clock"></i>9:00 - 10:00</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Class End -->
-
-
-    <!-- Discount Start -->
-    <div class="discount wow zoomIn" data-wow-delay="0.1s">
-        <div class="container">
-            <div class="section-header text-center">
-                <p>Awesome Discount</p>
-                <h2>Get <span>30%</span> Discount for all Classes</h2>
-            </div>
-            <div class="container discount-text">
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis
-                    ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
-                    Curabitur non nisl nec nisi scelerisque maximus.
-                </p>
-                <a class="btn">Join Now</a>
-            </div>
-        </div>
-    </div>
-    <!-- Discount End -->
-
-
-    <!-- Price Start -->
-    <div class="price">
-        <div class="container">
-            <div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
-                <p>Yoga Package</p>
-                <h2>Yoga Pricing Plan</h2>
-            </div>
-            <div class="row">
-                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.0s">
-                    <div class="price-item">
-                        <div class="price-header">
-                            <div class="price-title">
-                                <h2>Basic</h2>
-                            </div>
-                            <div class="price-prices">
-                                <h2><small>$</small>49<span>/ mo</span></h2>
-                            </div>
-                        </div>
-                        <div class="price-body">
-                            <div class="price-description">
-                                <ul>
-                                    <li>Personal Trainer</li>
-                                    <li>Special Class</li>
-                                    <li>Free Tutorials</li>
-                                    <li>Group Training</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="price-footer">
-                            <div class="price-action">
-                                <a class="btn" href="">Join Now</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="price-item featured-item">
-                        <div class="price-header">
-                            <div class="price-status">
-                                <span>Popular</span>
-                            </div>
-                            <div class="price-title">
-                                <h2>Standard</h2>
-                            </div>
-                            <div class="price-prices">
-                                <h2><small>$</small>99<span>/ mo</span></h2>
-                            </div>
-                        </div>
-                        <div class="price-body">
-                            <div class="price-description">
-                                <ul>
-                                    <li>Personal Trainer</li>
-                                    <li>Special Class</li>
-                                    <li>Free Tutorials</li>
-                                    <li>Group Training</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="price-footer">
-                            <div class="price-action">
-                                <a class="btn" href="">Join Now</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.6s">
-                    <div class="price-item">
-                        <div class="price-header">
-                            <div class="price-title">
-                                <h2>Premium</h2>
-                            </div>
-                            <div class="price-prices">
-                                <h2><small>$</small>149<span>/ mo</span></h2>
-                            </div>
-                        </div>
-                        <div class="price-body">
-                            <div class="price-description">
-                                <ul>
-                                    <li>Personal Trainer</li>
-                                    <li>Special Class</li>
-                                    <li>Free Tutorials</li>
-                                    <li>Group Training</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="price-footer">
-                            <div class="price-action">
-                                <a class="btn" href="">Join Now</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Price End -->
-
-
     <!-- Testimonial Start -->
-    <div class="testimonial wow fadeInUp" data-wow-delay="0.1s">
+    {{-- <div class="testimonial wow fadeInUp" data-wow-delay="0.1s">
         <div class="container">
             <div class="section-header text-center">
                 <p>Testimonial</p>
@@ -468,7 +210,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- Testimonial End -->
 
 
