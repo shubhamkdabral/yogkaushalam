@@ -42,6 +42,7 @@
                         <div class="text">
                             <i class="fa fa-phone-alt"></i>
                             <h2>+91-7819891130</h2>
+                            <h2>+91-7830834026</h2>
                             <p>For Appointment</p>
                         </div>
                     </div>

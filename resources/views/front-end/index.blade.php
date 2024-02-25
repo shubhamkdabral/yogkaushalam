@@ -275,11 +275,11 @@
 
 
     <!-- Blog Start -->
-    {{-- <div class="blog">
+    <div class="blog">
         <div class="container">
             <div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
-                <p>From Blog</p>
-                <h2>Latest Yoga Articles</h2>
+                <p>Our Courses</p>
+                <h2>Latest Yoga Courses</h2>
             </div>
             <div class="owl-carousel blog-carousel wow fadeInUp" data-wow-delay="0.1s">
                 <div class="blog-item">
@@ -287,15 +287,15 @@
                         <img src="{{ asset('storage/front-end/blog-1.jpg') }}" alt="Blog">
                     </div>
                     <div class="blog-text">
-                        <h2>Lorem ipsum dolor</h2>
-                        <div class="blog-meta">
+                        <h2>Regular Classes</h2>
+                        {{-- <div class="blog-meta">
                             <p><i class="far fa-list-alt"></i>Body Fitness</p>
                             <p><i class="far fa-calendar-alt"></i>01-Jan-2045</p>
                             <p><i class="far fa-comments"></i>5</p>
-                        </div>
+                        </div> --}}
                         <p>
-                            Lorem ipsum dolor sit amet elit. Neca pretim miura bitur facili ornare velit non vulpte liqum
-                            metus tortor
+                            Join our regular yoga classes for mindful movement, breathwork, and relaxation, fostering
+                            physical fitness, mental clarity, and inner peace
                         </p>
                         <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
                     </div>
@@ -305,15 +305,15 @@
                         <img src="{{ asset('storage/front-end/blog-2.jpg') }}" alt="Blog">
                     </div>
                     <div class="blog-text">
-                        <h2>Lorem ipsum dolor</h2>
-                        <div class="blog-meta">
+                        <h2>Retreat</h2>
+                        {{-- <div class="blog-meta">
                             <p><i class="far fa-list-alt"></i>Body Fitness</p>
                             <p><i class="far fa-calendar-alt"></i>01-Jan-2045</p>
                             <p><i class="far fa-comments"></i>5</p>
-                        </div>
+                        </div> --}}
                         <p>
-                            Lorem ipsum dolor sit amet elit. Neca pretim miura bitur facili ornare velit non vulpte liqum
-                            metus tortor
+                            Escape to our rejuvenating yoga retreat, where tranquility and self-discovery await amidst
+                            serene surroundings and transformative practices.
                         </p>
                         <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
                     </div>
@@ -323,15 +323,15 @@
                         <img src="{{ asset('storage/front-end/blog-3.jpg') }}" alt="Blog">
                     </div>
                     <div class="blog-text">
-                        <h2>Lorem ipsum dolor</h2>
-                        <div class="blog-meta">
+                        <h2>100 Hours TTC</h2>
+                        {{-- <div class="blog-meta">
                             <p><i class="far fa-list-alt"></i>Body Fitness</p>
                             <p><i class="far fa-calendar-alt"></i>01-Jan-2045</p>
                             <p><i class="far fa-comments"></i>5</p>
-                        </div>
+                        </div> --}}
                         <p>
-                            Lorem ipsum dolor sit amet elit. Neca pretim miura bitur facili ornare velit non vulpte liqum
-                            metus tortor
+                            Embark on a transformative journey with our 100-hour Yoga Teacher Training Course, deepening
+                            your practice and nurturing your teaching skills.
                         </p>
                         <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
                     </div>
@@ -341,15 +341,15 @@
                         <img src="{{ asset('storage/front-end/blog-4.jpg') }}" alt="Blog">
                     </div>
                     <div class="blog-text">
-                        <h2>Lorem ipsum dolor</h2>
-                        <div class="blog-meta">
+                        <h2>200 Hours TTC</h2>
+                        {{-- <div class="blog-meta">
                             <p><i class="far fa-list-alt"></i>Body Fitness</p>
                             <p><i class="far fa-calendar-alt"></i>01-Jan-2045</p>
                             <p><i class="far fa-comments"></i>5</p>
-                        </div>
+                        </div> --}}
                         <p>
-                            Lorem ipsum dolor sit amet elit. Neca pretim miura bitur facili ornare velit non vulpte liqum
-                            metus tortor
+                            Unlock your potential with our comprehensive 200-hour Yoga Teacher Training Course, designed to
+                            deepen your practice and empower your teaching journey.
                         </p>
                         <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
                     </div>
@@ -392,7 +392,7 @@
                 </div>
             </div>
         </div>
-    </div> --}}
+    </div>
     <!-- Blog End -->
 
 
