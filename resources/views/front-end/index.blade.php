@@ -284,7 +284,7 @@
             <div class="owl-carousel blog-carousel wow fadeInUp" data-wow-delay="0.1s">
                 <div class="blog-item">
                     <div class="blog-img">
-                        <img src="{{ asset('storage/front-end/blog-1.jpg') }}" alt="Blog">
+                        <img src="{{ asset('storage/front-end/regular.jpeg') }}" alt="Blog">
                     </div>
                     <div class="blog-text">
                         <h2>Regular Classes</h2>
@@ -302,7 +302,25 @@
                 </div>
                 <div class="blog-item">
                     <div class="blog-img">
-                        <img src="{{ asset('storage/front-end/blog-2.jpg') }}" alt="Blog">
+                        <img src="{{ asset('storage/front-end/private.jpeg') }}" alt="Blog">
+                    </div>
+                    <div class="blog-text">
+                        <h2>Private Classes</h2>
+                        {{-- <div class="blog-meta">
+                            <p><i class="far fa-list-alt"></i>Body Fitness</p>
+                            <p><i class="far fa-calendar-alt"></i>01-Jan-2045</p>
+                            <p><i class="far fa-comments"></i>5</p>
+                        </div> --}}
+                        <p>
+                            Experience personalized attention and tailored practices with our private yoga classes,
+                            fostering growth, healing, and well-being at your own pace.
+                        </p>
+                        <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="blog-img">
+                        <img src="{{ asset('storage/front-end/retreat.jpeg') }}" alt="Blog">
                     </div>
                     <div class="blog-text">
                         <h2>Retreat</h2>
@@ -320,7 +338,7 @@
                 </div>
                 <div class="blog-item">
                     <div class="blog-img">
-                        <img src="{{ asset('storage/front-end/blog-3.jpg') }}" alt="Blog">
+                        <img src="{{ asset('storage/front-end/100hours.jpeg') }}" alt="Blog">
                     </div>
                     <div class="blog-text">
                         <h2>100 Hours TTC</h2>
@@ -338,7 +356,7 @@
                 </div>
                 <div class="blog-item">
                     <div class="blog-img">
-                        <img src="{{ asset('storage/front-end/blog-4.jpg') }}" alt="Blog">
+                        <img src="{{ asset('storage/front-end/200hours.jpeg') }}" alt="Blog">
                     </div>
                     <div class="blog-text">
                         <h2>200 Hours TTC</h2>
@@ -350,42 +368,6 @@
                         <p>
                             Unlock your potential with our comprehensive 200-hour Yoga Teacher Training Course, designed to
                             deepen your practice and empower your teaching journey.
-                        </p>
-                        <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
-                    </div>
-                </div>
-                <div class="blog-item">
-                    <div class="blog-img">
-                        <img src="{{ asset('storage/front-end/blog-5.jpg') }}" alt="Blog">
-                    </div>
-                    <div class="blog-text">
-                        <h2>Lorem ipsum dolor</h2>
-                        <div class="blog-meta">
-                            <p><i class="far fa-list-alt"></i>Body Fitness</p>
-                            <p><i class="far fa-calendar-alt"></i>01-Jan-2045</p>
-                            <p><i class="far fa-comments"></i>5</p>
-                        </div>
-                        <p>
-                            Lorem ipsum dolor sit amet elit. Neca pretim miura bitur facili ornare velit non vulpte liqum
-                            metus tortor
-                        </p>
-                        <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
-                    </div>
-                </div>
-                <div class="blog-item">
-                    <div class="blog-img">
-                        <img src="{{ asset('storage/front-end/blog-6.jpg') }}" alt="Blog">
-                    </div>
-                    <div class="blog-text">
-                        <h2>Lorem ipsum dolor</h2>
-                        <div class="blog-meta">
-                            <p><i class="far fa-list-alt"></i>Body Fitness</p>
-                            <p><i class="far fa-calendar-alt"></i>01-Jan-2045</p>
-                            <p><i class="far fa-comments"></i>5</p>
-                        </div>
-                        <p>
-                            Lorem ipsum dolor sit amet elit. Neca pretim miura bitur facili ornare velit non vulpte liqum
-                            metus tortor
                         </p>
                         <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
                     </div>
