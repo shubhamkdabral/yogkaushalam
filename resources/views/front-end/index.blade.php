@@ -43,7 +43,7 @@
                 <div class="col-lg-7 col-md-6">
                     <div class="section-header text-left">
                         <p>About Us</p>
-                        <h2>Welcome to YogKaushlam</h2>
+                        <h2>Welcome to YogKaushalam</h2>
                     </div>
                     <div class="about-text">
                         <p>
