@@ -2,8 +2,14 @@
 
 namespace App\Providers;
 
+use App\Nova\Fee;
+use App\Nova\Students;
+use App\Nova\User;
+use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Blade;
 use Illuminate\Support\Facades\Gate;
+use Laravel\Nova\Menu\MenuItem;
+use Laravel\Nova\Menu\MenuSection;
 use Laravel\Nova\Nova;
 use Laravel\Nova\NovaApplicationServiceProvider;
 
@@ -22,6 +28,8 @@ class NovaServiceProvider extends NovaApplicationServiceProvider
         Nova::footer(function ($request) {
             return Blade::render('nova/footer');
         });
+
+        $this->customMenu();
     }
 
     /**
@@ -83,5 +91,18 @@ class NovaServiceProvider extends NovaApplicationServiceProvider
     public function register()
     {
         //
+    }
+
+    private function customMenu()
+    {
+        return Nova::mainMenu(function (Request $request) {
+            return [
+                MenuSection::make('Users', [
+                    MenuItem::resource(User::class),
+                    MenuItem::resource(Students::class),
+                    MenuItem::resource(Fee::class),
+                ])->icon('user')->collapsable()
+            ];
+        });
     }
 }

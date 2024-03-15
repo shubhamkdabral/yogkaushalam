@@ -18,12 +18,12 @@ use Laravel\Nova\Fields\Text;
 use Laravel\Nova\Fields\Trix;
 use Laravel\Nova\Http\Requests\NovaRequest;
 
-class User extends Resource
+class Students extends Resource
 {
     /**
      * The model the resource corresponds to.
      *
-     * @var class-string<\App\Models\User>
+     * @var class-string<\App\Models\Students>
      */
     public static $model = \App\Models\User::class;
 
@@ -32,7 +32,7 @@ class User extends Resource
      *
      * @var string
      */
-    public static $title = 'name';
+    public static $title = 'id';
 
     /**
      * The columns that should be searched.
@@ -40,18 +40,18 @@ class User extends Resource
      * @var array
      */
     public static $search = [
-        'id', 'name', 'email',
+        'id', 'name', 'email', 'Profession'
     ];
 
     public static function label()
     {
-        return 'Admin';
+        return 'Students';
     }
 
     public static function indexQuery(NovaRequest $request, $query)
     {
         return $query->where(function ($query) {
-            $query->where('role', 'admin');
+            $query->where('role', 'user');
         });
     }
 
@@ -81,6 +81,21 @@ class User extends Resource
             Number::make('Phone')
                 ->rules('required'),
 
+            Text::make('Profession')
+                ->sortable()
+                ->rules('required', 'max:255'),
+
+            Number::make('Age')
+                ->rules('required'),
+
+            Text::make('Height')
+                ->sortable()
+                ->rules('required', 'max:255'),
+
+            Text::make('Weight')
+                ->sortable()
+                ->rules('required', 'max:255'),
+
             Select::make('Role')
                 ->rules('required')
                 ->options([
@@ -95,6 +110,13 @@ class User extends Resource
                     UserType::ENQUIRY => UserType::ENQUIRY,
                 ])->sortable()->filterable(),
 
+            Select::make('Shift')
+                ->rules('required')
+                ->options([
+                    'Morning' => 'Morning',
+                    'Evening' => 'Evening',
+                ])->sortable()->filterable(),
+
             Select::make('Gender')
                 ->rules('required')
                 ->options([
@@ -107,16 +129,14 @@ class User extends Resource
                 ->rules('required')
                 ->sortable()->filterable(),
 
+            Trix::make('Health Condition / Medical History', 'medical_history')->alwaysShow(),
             Trix::make('Address')->alwaysShow(),
-
-            Password::make('Password')
-                ->onlyOnForms()
-                ->creationRules('required', Rules\Password::defaults())
-                ->updateRules('nullable', Rules\Password::defaults()),
 
             Images::make('Profile Pic', 'profile-photo') // second parameter is the media collection name
                 ->conversionOnIndexView('thumb') // conversion used to display the image
                 ->rules('required'), // validation rules
+
+            HasMany::make('Fees Month', 'fees', Fee::class),
         ];
     }
 
